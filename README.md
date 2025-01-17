@@ -13,3 +13,6 @@ Time Complexity:
 
 Binary Search: O(log n), worst-case for large data is log(n) comparisons.
 Linear Search: O(n), worst-case is n comparisons.
+## LinkedIn Post  
+I also shared this project on LinkedIn to highlight my learnings and technical skills.  
+[Check out my LinkedIn post here]https://www.linkedin.com/posts/hashir-qureshi-803235347_datastructures-python-binarysearch-activity-7285991805018386432-X5WH?utm_source=share&utm_medium=member_desktop
